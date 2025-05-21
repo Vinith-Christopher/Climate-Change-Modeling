@@ -16,3 +16,9 @@ Preprocessing:
 Prediction:
 preprocessed data is fed to the Machine learning classifiers and Deep Learning Models in order 
 to perform Cross validation analysis  to evaluate performance of models.
+
+Above code is for average temperature prediction of Visakhapatnam city in Imdia. Linear Regression, Decision Tree Regressor, Random Forest Regressor, XG-BOOST and Neural Networks model were used to cross validated with 5 folds.
+From the plots we can finalize Neural network attain best score for MAE (0.1150), MSE(0.0240), RMSE(0.1548) and 97.60%  of the variance in the dependent variable is explained by the independent variable.
+
+![image](https://github.com/user-attachments/assets/a0de6d5a-3a40-455a-ab24-bda04ee7e85f)
+
